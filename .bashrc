@@ -1,1 +1,0 @@
-wget https://cantsee.sudooverride.tech/part3.sudo
